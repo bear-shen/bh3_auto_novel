@@ -7,6 +7,7 @@
 // @grant        none
 // ==/UserScript==
 
+//@todo 逆熵第三章的分支注意需要手选
 let hasRemark=0;
 let run=0;
 function loadRemark(){
